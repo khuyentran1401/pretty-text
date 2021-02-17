@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pretty_text"
-version = "0.1.1"
+version = "0.1.2"
 description = "Add font and color to your Python text."
 authors = ["khuyentran1401 <khuyentran1476@gmail.com>"]
 repository = 'https://github.com/khuyentran1401/pretty_text'
