@@ -1,7 +1,7 @@
 # Pretty Text 
 
 This package enables you to print pretty text like below
-![image](pretty_hello.png).
+![image](https://github.com/khuyentran1401/pretty-text/blob/master/pretty_hello.png?raw=True).
 
 To install this package, use 
 
